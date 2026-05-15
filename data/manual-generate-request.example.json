@@ -1,0 +1,44 @@
+{
+  "capturedAt": "",
+  "headers": {
+    "authorization": "",
+    "browserToken": "",
+    "deviceId": "",
+    "userAgent": "Mozilla/5.0",
+    "acceptLanguage": "zh-CN,zh;q=0.9,en;q=0.8",
+    "origin": "https://suno.com",
+    "referer": "https://suno.com/"
+  },
+  "payload": {
+    "token": "",
+    "generation_type": "TEXT",
+    "mv": "chirp-fenix",
+    "prompt": "",
+    "gpt_description_prompt": "",
+    "make_instrumental": false,
+    "user_uploaded_images_b64": null,
+    "metadata": {
+      "web_client_pathname": "/create",
+      "is_max_mode": false,
+      "is_mumble": false,
+      "create_mode": "simple",
+      "user_tier": "",
+      "create_session_token": "",
+      "disable_volume_normalization": false,
+      "lyrics_model": "default"
+    },
+    "override_fields": [],
+    "cover_clip_id": null,
+    "cover_start_s": null,
+    "cover_end_s": null,
+    "persona_id": null,
+    "artist_clip_id": null,
+    "artist_start_s": null,
+    "artist_end_s": null,
+    "continue_clip_id": null,
+    "continued_aligned_prompt": null,
+    "continue_at": null,
+    "transaction_uuid": "",
+    "token_provider": null
+  }
+}

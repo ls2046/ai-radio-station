@@ -1,0 +1,13 @@
+{
+  "history": [
+    {
+      "role": "user",
+      "content": "今天有点累，想听轻一点的歌。"
+    },
+    {
+      "role": "assistant",
+      "content": "那我们把节奏放慢一点，先找一首能让你松下来的歌。"
+    }
+  ],
+  "count": 2
+}

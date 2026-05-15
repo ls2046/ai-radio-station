@@ -1,0 +1,24 @@
+{
+  "name": "ai-radio-station",
+  "version": "0.1.0",
+  "private": true,
+  "description": "AI Radio Station - AI对话、对话分析、Suno歌单生成、AI电台主播",
+  "workspaces": [
+    "apps/*"
+  ],
+  "scripts": {
+    "dev": "npm run dev:web",
+    "dev:api": "npm run dev --workspace @ai-radio/api",
+    "dev:web": "npm run dev --workspace @ai-radio/web",
+    "dev:web:3001": "PORT=3001 npm run dev --workspace @ai-radio/web",
+    "build": "npm run build --workspace @ai-radio/web",
+    "start:api": "npm run start --workspace @ai-radio/api"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "devDependencies": {
+    "@types/node": "^25.6.0",
+    "@types/react": "^19.2.14"
+  }
+}
