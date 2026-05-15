@@ -7,7 +7,7 @@
 
 # AI Radio Station
 
-AI Radio Station is a source-first experiment for an AI-hosted music station: chat with a host persona, analyze the conversation mood, generate a playlist prompt, and synthesize short host voiceovers for the listening experience.
+AI Radio Station is a source-first experiment for an AI-hosted music station: chat with a host persona, analyze the conversation mood, generate songs and playlist prompts, and synthesize short host voiceovers for the listening experience.
 
 This public version is intentionally cleaned for open source:
 
