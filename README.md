@@ -1,3 +1,10 @@
+<table>
+  <tr>
+    <td><strong>English</strong></td>
+    <td><a href="./README.zh-CN.md">简体中文</a></td>
+  </tr>
+</table>
+
 # AI Radio Station
 
 AI Radio Station is a source-first experiment for an AI-hosted music station: chat with a host persona, analyze the conversation mood, generate a playlist prompt, and synthesize short host voiceovers for the listening experience.
